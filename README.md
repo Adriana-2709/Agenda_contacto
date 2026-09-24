@@ -1,4 +1,4 @@
-# 📒 Agenda de Contactos
+# Agenda de Contactos
 
 Un programa sencillo para **guardar los números de teléfono de tus contactos**, como la agenda de un celular pero en la computadora.
 
